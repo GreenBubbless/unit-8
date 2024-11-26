@@ -95,6 +95,8 @@ The Video app is your go-to platform for discovering the latest films, leaving r
 [Add screenshot of your Project Board with three milestones visible in
 this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![image](https://github.com/user-attachments/assets/86c5a30a-ae24-46cd-a13c-2ee0d8f62cd3)
+
 
 ## Issue cards
 
@@ -102,6 +104,7 @@ this section]
 ![image](https://github.com/user-attachments/assets/250d2fc3-fdf7-4997-b040-ad81ea709d4c)
 
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
 ![image](https://github.com/user-attachments/assets/7de2a8b9-9cef-4121-a974-2c282e2c1e47)
 
 ## Issues worked on this sprint
