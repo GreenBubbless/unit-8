@@ -116,6 +116,9 @@ this section]
     - Parse data into a Kotlin model #3
     - Bind data to View objects #4
     - Style Views and arrange them using ConstraintLayout #5
+ 
+  - [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+
 <br>
 
 # Milestone 3 - Build Sprint 2 (Unit 9)
