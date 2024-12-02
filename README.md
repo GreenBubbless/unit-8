@@ -117,7 +117,9 @@ this section]
     - Bind data to View objects #4
     - Style Views and arrange them using ConstraintLayout #5
  
-  - https://imgur.com/a/rK3ygCq
+-Video Walkthrough
+  - <img src='https://github.com/GreenBubbless/unit-8/blob/main/GifUnit8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <br>
 
