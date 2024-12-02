@@ -117,7 +117,7 @@ this section]
     - Bind data to View objects #4
     - Style Views and arrange them using ConstraintLayout #5
  
-  - [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+  - https://imgur.com/a/rK3ygCq
 
 <br>
 
